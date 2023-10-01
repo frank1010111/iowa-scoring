@@ -1,0 +1,10 @@
+arviz
+cfbd
+formulae
+ipykernel
+matplotlib
+numpy
+pandas
+pyarrow
+pymc
+seaborn
